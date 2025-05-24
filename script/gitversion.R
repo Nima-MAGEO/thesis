@@ -22,10 +22,11 @@ library(grid)
 # -------------------------------------------------------------------
 # Set Folder Paths
 # -------------------------------------------------------------------
+# -------------------------------------------------------------------
 main_folder   <- "C:/Users/nima/Desktop/data analysis/github"
 data_folder   <- file.path(main_folder, "data")
 output_folder <- file.path(main_folder, "output")
-
+setwd("C:/Users/nima/Desktop/data analysis/github")
 cat("Data Folder:   ", data_folder, "\n")
 cat("Output Folder: ", output_folder, "\n")
 
