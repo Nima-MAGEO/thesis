@@ -1,0 +1,51 @@
+Fisher's Exact Test Results
+============================
+
+Preference vs Intention 
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on 10000 replicates)
+
+data:  tab
+p-value = 0.6211
+alternative hypothesis: two.sided
+
+Significance: Not significant (p ≥ 0.05) 
+
+-----------------------------
+
+Preference vs Attitude 
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on 10000 replicates)
+
+data:  tab
+p-value = 0.6007
+alternative hypothesis: two.sided
+
+Significance: Not significant (p ≥ 0.05) 
+
+-----------------------------
+
+Preference vs Norms 
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on 10000 replicates)
+
+data:  tab
+p-value = 0.9449
+alternative hypothesis: two.sided
+
+Significance: Not significant (p ≥ 0.05) 
+
+-----------------------------
+
+Preference vs Control 
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on 10000 replicates)
+
+data:  tab
+p-value = 0.07679
+alternative hypothesis: two.sided
+
+Significance: Not significant (p ≥ 0.05) 
+
+-----------------------------
+

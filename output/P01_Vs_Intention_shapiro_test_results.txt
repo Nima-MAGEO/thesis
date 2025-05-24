@@ -1,0 +1,47 @@
+Shapiro-Wilk Normality Test Results
+===================================
+
+Variable: numeric_attitude 
+
+	Shapiro-Wilk normality test
+
+data:  data[[var]]
+W = 0.82994, p-value = 2.056e-05
+
+Distribution Status: Not normally distributed 
+
+-----------------------------
+
+Variable: numeric_norms 
+
+	Shapiro-Wilk normality test
+
+data:  data[[var]]
+W = 0.87838, p-value = 0.0003452
+
+Distribution Status: Not normally distributed 
+
+-----------------------------
+
+Variable: numeric_control 
+
+	Shapiro-Wilk normality test
+
+data:  data[[var]]
+W = 0.83764, p-value = 3.124e-05
+
+Distribution Status: Not normally distributed 
+
+-----------------------------
+
+Variable: numeric_intention 
+
+	Shapiro-Wilk normality test
+
+data:  data[[var]]
+W = 0.87015, p-value = 0.0002065
+
+Distribution Status: Not normally distributed 
+
+-----------------------------
+
